@@ -21,7 +21,7 @@
     "gravatar": "^1.6.0",
     "http-errors": "~1.6.2",
     "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.1.6",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "npm": "^6.1.0",
     "passport": "^0.4.0",
